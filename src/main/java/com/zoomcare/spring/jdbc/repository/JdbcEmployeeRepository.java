@@ -37,7 +37,8 @@ public class JdbcEmployeeRepository implements EmployeeRepository {
 		}
 	}
 	
-	  @Override
+	  @SuppressWarnings({ "unchecked", "rawtypes" })
+	@Override
 	  public List<Employee> findTopLevelEmployees() {
 		  
 		  List<Employee> employees = new ArrayList<Employee>();
