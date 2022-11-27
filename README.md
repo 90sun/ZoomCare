@@ -1,4 +1,4 @@
-# ZOOM+Care Candidate Code Challenge - Java Web Service
+# ZOOM+Care Java Web Service
 
 ![ZOOM+Care Logo](https://avatars0.githubusercontent.com/u/48925141?s=150)
 
