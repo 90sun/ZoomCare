@@ -41,7 +41,3 @@ A map of key/value pairs of properties assigned to an employee.
 | VALUE         | VARCHAR(256)  |
 
 
-## Steps to Complete
-1. Create a Fork of the repository into your personal GitHub space.
-2. Implement the feature as described above.
-3. Create a Pull Request back to the original project.
